@@ -60,4 +60,4 @@ Molte cartelle contengono script di esercitazione (es. preparazione a esami, tes
 Chiaramente è tutto relativo ai professori e programmi che ho seguito io nel corso degli anni. Non garantisco che gli argomenti coincidano o siano sufficienti per le  nuove modalità di esame.
 
 ---
-👨‍💻 **Autore:** Francesco Giammaria (`giamm0-25` & `giamm025-Uni`)
+👨‍💻 **Autore:** Francesco Giammaria (`giamm025` & `giamm025-Uni`)

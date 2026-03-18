@@ -1,7 +1,6 @@
 # 🎓 Informatica Triennale - Appunti & Progetti
 
-Benvenuto nella mia repository universitaria! 
-Questo spazio è dedicato a raccoglere e condividere in maniera semplice ed efficiente i miei appunti universitari. Qui troverai appunti, codici, esercizi, e link progetti sviluppati durante tutto il percorso di studi triennale in Informatica. 
+Benvenuto. Questo spazio è dedicato a raccoglere e condividere in maniera semplice ed efficiente i miei appunti universitari. Qui troverai appunti, codici, esercizi, e link progetti sviluppati durante tutto il percorso di studi triennale in Informatica. 
 
 L'obiettivo di questa repo è mantenere traccia dei miei progressi, avere una libreria di algoritmi sempre pronta all'uso e mostrare il mio percorso di crescita come software developer.
 
@@ -20,7 +19,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
   * ⚙️ [Architettura degli Elaboratori](./1-Anno/2-Semestre/Architettura-degli-Elaboratori)
   * 📈 [Introduzione agli Algoritmi](./1-Anno/2-Semestre/Introduzione-agli-Algoritmi)
   * ☕ [Metodologie di Programmazione](./1-Anno/2-Semestre/Metodologie-di-Programmazione)
-    * 🏆 **Highlight Progetto:** [Vai a JPokeBattle](./1-Anno/2-Semestre/Metodologie-di-Programmazione/Progetto/JPokeBattle-Consegnato)
+    * 🏆 **Progetto:** [JPokeBattle](./1-Anno/2-Semestre/Metodologie-di-Programmazione/Progetto/JPokeBattle-Consegnato)
 
 ### 📘 2° Anno
 * **1° Semestre**
@@ -61,4 +60,4 @@ Molte cartelle contengono script di esercitazione (es. preparazione a esami, tes
 Chiaramente è tutto relativo ai professori e programmi che ho seguito io nel corso degli anni. Non garantisco che gli argomenti coincidano o siano sufficienti per le  nuove modalità di esame.
 
 ---
-👨‍💻 **Autore:** Francesco Giammaria (`giamm025`)
+👨‍💻 **Autore:** Francesco Giammaria (`giamm0-25` & `giamm025-Uni`)

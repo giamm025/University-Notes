@@ -1,0 +1,54 @@
+# =========================
+# SISTEMA OPERATIVO
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE & EDITOR
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# MATERIALE UNIVERSITARIO & OFFICE
+# =========================
+# Ignora le cartelle di materiale pesante o protetto da copyright
+Slides/
+Altro-Materiale/
+0-Immatricolazione/
+Tesi/
+
+# Ignora tutti i file Word (vecchi e nuovi)
+*.doc
+*.docx
+
+# Ignora file temporanei di Office e di sistema
+~$*
+*.tmp
+*.log
+
+# =========================
+# PYTHON & AMBIENTI VIRTUALI
+# =========================
+venv/
+env/
+.conda/
+
+# Ignora i file di cache invisibili che Python crea in automatico
+__pycache__/
+*.pyc
+*.pyo
+
+# Variabili d'ambiente e segreti (MAI caricare password o chiavi API su GitHub!)
+.env
+
+# =========================
+# C / C++ / JAVA (File Compilati)
+# =========================
+# Se in futuro farai esami con questi linguaggi, non caricherai mai gli eseguibili
+*.exe
+*.out
+*.o
+*.class
+*.jar

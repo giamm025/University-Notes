@@ -29,6 +29,9 @@ Tesi/
 *.tmp
 *.log
 
+# Ignora i dataset di PyTorch
+data/
+
 # =========================
 # PYTHON & AMBIENTI VIRTUALI
 # =========================

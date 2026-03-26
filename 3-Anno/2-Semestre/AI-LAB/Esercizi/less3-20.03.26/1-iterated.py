@@ -13,16 +13,8 @@ training_data = datasets.MNIST(
     transform=ToTensor()    # trasforma le immagini in tensori PyTorch
 )
 
-test_data = datasets.MNIST(
-    root="data",            
-    train=False,            # specifica che vogliamo il set di test (non addestramento come prima)
-    download=True,         
-    transform=ToTensor()    
-)
-
 batch_size = 64
 train_dataloader = DataLoader.DataLoader(training_data, batch_size=batch_size)
-test_dataloader = DataLoader.DataLoader(test_data, batch_size=batch_size)
 
 for i in range(batch_size):
     imgs, labels = next(iter(train_dataloader)) # ottieni un batch di immagini e etichette dal DataLoader

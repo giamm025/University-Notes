@@ -111,9 +111,9 @@ creando una classe che eredita da:
 Questa classe fornisce tutte le funzionalità necessarie per costruire e addestrare un modello di machine learning personalizzato. 
 Dovremo implementare due metodi principali:
 
-    - __init__(self): definiamo la struttura del modello, ovvero quali tipi di layer utilizzeremo e come sono connessi tra loro.
+    - __init__(self): definiamo l'hardware, cioe la struttura del modello, ovvero quali tipi di layer utilizzeremo e come sono connessi tra loro.
 
-    - forward(self, x): definiamo il flusso dei dati attraverso il modello, come i dati vengono trasformati dai layer per produrre l'output.
+    - forward(self, x): definiamo il software, cioe il flusso dei dati attraverso il modello, come i dati vengono trasformati dai layer per produrre l'output.
 '''
 
 class NeuralNetwork(torch.nn.Module):

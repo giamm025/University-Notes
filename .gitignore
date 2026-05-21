@@ -32,6 +32,7 @@ Progetto/
 
 # Ignora i dataset di PyTorch
 data/
+protege-exercises/
 
 # =========================
 # PYTHON & AMBIENTI VIRTUALI

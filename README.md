@@ -44,7 +44,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
       * 🏆 **Progetto:** [WasaText](https://github.com/giamm025/wasaText.git)
 * **2° Semestre**
   * 🏢 [Organizzazione e Gestione Aziendale](./3-Anno/2-Semestre/OGA)
-  * 🤖 [AI LAB](./3-Anno/2-Semestre/AI-LAB)
+  * 🤖 [Ai Lab: Computer Vision and NLP](./3-Anno/2-Semestre/AI-LAB)
       * 🏆 **Progetto:** [Sign Language Recognition (LSTM + MediaPipe)](https://github.com/giamm025/Ai-Lab-Project.git)
 
 * **Tirocinio & Tesi**

@@ -56,7 +56,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 ## 🛠️ Tecnologie & Strumenti Utilizzati
 
 - **Linguaggi:** `Python`, `Java`, `Javascript`, `C/C++`, `SQL`
-- **Database:** `PostgreSQL`, `pgAdmin`, `SQLite`
+- **Database:** `PostgreSQL`, `pgAdmin`, `SQLite`, `DjangoDB` 
 - **Tools & Paradigmi:** `Git`, `Docker`, `UML`, Object-Oriented Programming (OOP)
 
 ---

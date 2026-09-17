@@ -32,7 +32,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
   * 🌐 [Reti degli Elaboratori](./2-Anno/2-Semestre/Reti-degli-Elaboratori)
   * 🖥️ [Sistemi Operativi 2](./2-Anno/2-Semestre/Sistemi-Operativi-2)
       * 🏆 **Homework 1:** [C Pre-Compiler](https://github.com/MaxTheOne05/homework1.git)
-      * 🏆 **Homework 2:** [Client-Server Encrypted Communication](https://github.com/MaxTheOne05/homework2.git)
+      * 🏆 **Homework 2:** [Parallel Client-Server XOR Cipher](https://github.com/MaxTheOne05/homework2.git)
 
 ### 📙 3° Anno
 * **1° Semestre**

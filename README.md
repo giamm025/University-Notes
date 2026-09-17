@@ -36,14 +36,14 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 
 ### 📙 3° Anno
 * **1° Semestre**
-  * 🧮 [Automi Calcolabilità e Complessità](./3-Anno/1-Semestre/Ingegneria-del-Software)
-  * 🖥️ [Ingegneria del Software](./3-Anno/1-Semestre/Ingegneria-del-Software)
-  * 🛡️ [Cybersecurity](./3-Anno/1-Semestre/Cybersecurity)
-  * 🖱️ [Interazione Uomo-Macchina](./3-Anno/1-Semestre/Interazione-Uomo-Macchina)
-  * 🕸️ [Programmazione per il Web](./3-Anno/1-Semestre/Programmazione-per-il-Web)
+  * 🧮 [Automi Calcolabilità e Complessità](./3-Anno/1-Semestre/Automi-Calcolabilita-Complessita)
+  * 🖥️ [Ingegneria del Software](./3-Anno/1-Semestre/ISW)
+  * 🛡️ [Cybersecurity](./3-Anno/1-Semestre/Cyber-Security)
+  * 🖱️ [Interazione Uomo-Macchina](./3-Anno/1-Semestre/IUM)
+  * 🕸️ [Programmazione per il Web](./3-Anno/1-Semestre/WEB)
       * 🏆 **Progetto:** [WasaText](https://github.com/giamm025/wasaText.git)
 * **2° Semestre**
-  * 🏢 [Organizzazione e Gestione Aziendale](./3-Anno/1-Semestre/Organizzazione-Gestione-Aziendale)
+  * 🏢 [Organizzazione e Gestione Aziendale](./3-Anno/1-Semestre/OGA)
   * 🤖 [AI LAB](./3-Anno/2-Semestre/AI-LAB)
       * 🏆 **Progetto:** [Sign Language Recognition (LSTM + MediaPipe)](https://github.com/giamm025/Ai-Lab-Project.git)
 

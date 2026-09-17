@@ -4,7 +4,7 @@ Ciaoo! In questa repo puoi trovare tutti gli appunti, codici, esercizi e progett
 
 ---
 
-## 📂 Struttura della Repository e Corsi
+## 📂 Informatica (Triennale)
 
 Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 
@@ -50,13 +50,19 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 * **Tirocinio & Tesi**
   * 🖥️ [iBEARer](https://github.com/giamm025/iBEARer.git)
   * 📜 [Tesi in pdf](./3-Anno/Tesi.pdf) 
+---
+
+## 📂 Computer Science (Magistrale)
+
+### 📗 1° Anno
+* **1° Semestre**
 
 ---
 
 ## 🛠️ Tecnologie & Strumenti Utilizzati
 
 - **Linguaggi:** `Python`, `Java`, `Javascript`, `C/C++`, `SQL`
-- **Database:** `PostgreSQL`, `pgAdmin`, `SQLite`
+- **Database:** `PostgreSQL`, `pgAdmin`, `SQLite`, `DjangoDB` 
 - **Tools & Paradigmi:** `Git`, `Docker`, `UML`, Object-Oriented Programming (OOP)
 
 ---

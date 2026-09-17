@@ -1,0 +1,55 @@
+
+# 1. Ambienti Virtuali e Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+vision/
+env/
+.env
+requirements.txt
+
+# 2. Jupyter Notebooks (File temporanei e cache)
+.ipynb_checkpoints/
+
+# 3. Dati Grezzi ed Estratti (FONDAMENTALE: Ignora i video e gli array!)
+# Conserviamo solo le cartelle principali dei dataset (grazie ai .gitkeep)
+datasets/*/*
+!datasets/*/.gitkeep
+datasets/*/*
+!datasets/*/.gitkeep
+
+data/*
+
+!data/raw/
+!data/processed/
+!data/labels.json
+
+data/raw/*
+data/processed/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# 4. Modelli PyTorch Addestrati (Pesano tantissimo, non vanno su Git)
+models/*.pt
+models/*.pth
+models/*.weights
+
+# 5. Log e Risultati Temporanei
+results/v3_L_prova_webcam
+
+# 6. File di Sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# 7. IDEs e Code Editors
+.vscode/
+.idea/
+
+
+# 8. Documentazione
+docs/
+
+# 9. Altri File Temporanei
+notes/*

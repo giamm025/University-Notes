@@ -1,0 +1,14 @@
+--- RISULTATI FINALI MANI_VOLTO ---
+
+               precision    recall  f1-score   support
+
+       happen       1.00      0.50      0.67        10
+      finally       0.64      0.88      0.74         8
+         late       0.56      0.38      0.45        13
+      not-yet       0.50      1.00      0.67         7
+misunderstand       0.45      0.62      0.53         8
+   understand       0.73      0.53      0.62        15
+
+     accuracy                           0.61        61
+    macro avg       0.65      0.65      0.61        61
+ weighted avg       0.66      0.61      0.60        61

@@ -58,7 +58,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 * **1° Semestre**
   * 💾 [Big Data Computing](./4-Anno/1-Semestre/Big-Data-Computing)
   * 👁️ [Computer Vision](./4-Anno/1-Semestre/Computer-Vision)
-        * 🏆 **Progetto:** [To-Do]
+        * 🏆 **Progetto:** To-Do
   * 🌐 [Distributed Systems](./4-Anno/1-Semestre/Distributed-Systems)
   * 🧮 [Foundations of Data Science](./4-Anno/1-Semestre/Foundations-of-Data-Science)
   * 📡 [Network Infrastructures](./4-Anno/1-Semestre/Network-Infrastructure)

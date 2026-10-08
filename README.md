@@ -29,7 +29,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 * **2° Semestre**
   * 💡 [Progettazione di Algoritmi](./2-Anno/2-Semestre/Algoritmi-2)
   * 🗄️ [Basi di Dati 2](./2-Anno/2-Semestre/Basi-di-Dati-2)
-  * 🌐 [Reti degli Elaboratori](./2-Anno/2-Semestre/Reti-degli-Elaboratori)
+  * 🌐 [Reti di Elaboratori](./2-Anno/2-Semestre/Reti-di-Elaboratori)
   * 🖥️ [Sistemi Operativi 2](./2-Anno/2-Semestre/Sistemi-Operativi-2)
       * 🏆 **Homework 1:** [C Pre-Compiler](https://github.com/MaxTheOne05/homework1.git)
       * 🏆 **Homework 2:** [Parallel Client-Server XOR Cipher](https://github.com/MaxTheOne05/homework2.git)

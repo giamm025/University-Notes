@@ -76,7 +76,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
 ---
 
 ## 📌 Note per chi esplora
-Tutto il materiale in questa repository è reativo ed è stato utilizzo per il superamento degli esami durante il MIO percorso di studi. A causa dei recenti cambiamenti del regolamento, dei docenti e dei corsi erogati nella laurea triennale in Informatica NON garantisco che gli argomenti coincidano o siano sufficienti per le  nuove modalità di esame. Inoltre, potrebbe esserci materiale incompleto, bug o errori nelle dispense. Se doveste trovarne potete conttatrmi direttamente e cercherò di correggere!
+Potrebbe esserci materiale incompleto, bug o errori nelle dispense. Se doveste trovarne potete contattarmi direttamente e cercherò di correggere!
 
 ---
 👨‍💻 **Autore:** Francesco Giammaria (`giamm025` & `giamm025-Uni`)

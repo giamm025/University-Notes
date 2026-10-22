@@ -62,7 +62,8 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
   * 👁️ [Computer Vision](./4-Anno/1-Semestre/Computer-Vision)
     * 🏆 **Project:** To-Do
   * 🧮 [Foundations of Data Science](./4-Anno/1-Semestre/Foundations-of-Data-Science)
-      * 🏆 **Project:** To-Do
+    * 🏆 **Mid-Term Challenge:** To-Do
+    * 🏆 **Project:** To-Do
 
 ---
 

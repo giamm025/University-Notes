@@ -62,7 +62,7 @@ Naviga direttamente nelle cartelle dei corsi cliccando sui link qui sotto:
   * 👁️ [Computer Vision](./4-Anno/1-Semestre/Computer-Vision)
     * 🏆 **Project:** To-Do
   * 🧮 [Foundations of Data Science](./4-Anno/1-Semestre/Foundations-of-Data-Science)
-    * 🏆 **Mid-Term Challenge:** [Pokemon Battle Predicter](./4-Anno/1-Semestre/Foundations-of-Data-Science/Mid-Term-Challenge/pokemon-battle-predicter.ipynb)
+    * 🏆 **Mid-Term Challenge:** [Pokemon Battle Predicter](https://github.com/LM-official/Pokemon-Battle-Predicter/tree/main)
     * 🏆 **Project:** To-Do
 
 ---
